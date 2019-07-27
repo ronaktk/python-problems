@@ -3,9 +3,9 @@
 # Array
 
 * [Two Sum problem](arrays/twoSum.py)
-* [Find duplicates in a list](Arrays/findDuplicatesInList.py)
-* [Find common in two lists](Arrays/findCommonInTwoLists.py)
-* [Remove duplicates](Arrays/removeDuplicates.py)
+* [Find duplicates in a list](arrays/findDuplicatesInList.py)
+* [Find common in two lists](arrays/findCommonInTwoLists.py)
+* [Remove duplicates](arrays/removeDuplicates.py)
 
 # String
 
